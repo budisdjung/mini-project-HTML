@@ -1,2 +1,2 @@
 # mini-project-HTML
-This is a mini prject for assignment from dibimbing.id
+This is a mini project for assignment from dibimbing.id
